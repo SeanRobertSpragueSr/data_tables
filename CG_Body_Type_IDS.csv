@@ -1,0 +1,10 @@
+Body,bodyTypeGroupIds
+Convertible,1
+Coupe,0
+Hatchback,3
+Minivan,4
+Pickup,5
+Sedan,6
+SUV,7
+Van,8
+Wagon,9
