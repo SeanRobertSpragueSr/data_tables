@@ -1,0 +1,7 @@
+API_Input,sortType,Description,API_Input,Best_Sort,sortDir_Worst
+sortType,PRICE,Price_of_Car,sortDir,ASC,DESC
+sortType,MILEAGE,Miles,sortDir,ASC,DESC
+sortType,PROXIMITY,Distance_from_Zip,sortDir,ASC,DESC
+sortType,DEAL_SCORE,Deal_Rating_of_Car,sortDir,ASC,DESC
+sortType,NEWEST_CAR_YEAR,Year_of_Car,sortDir,ASC,DESC
+sortType,AGE_IN_DAYS,How_Long_on_CG,sortDir,ASC,DESC
